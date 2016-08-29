@@ -2,11 +2,11 @@
 This is a Visual Studio Project of a simple asteroids game written in OpenGL. More needs to be added, more information under TODO below.
 
 ##TODO
- 1. Implement a menu system
- 2. Add music to the menus and game
- 3. Add more ship types
- 4. Add more weapon types
- 5. Add more obstacles
+ *. Implement a menu system
+ *. Add music to the menus and game
+ *. Add more ship types
+ *. Add more weapon types
+ *. Add more obstacles
 
 ##How to run:
  1. Clone the repository
