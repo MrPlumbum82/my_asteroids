@@ -6,7 +6,7 @@ This is an asteroids game written in OpenGL. More needs to be added, additional 
 
 ##TODO
  * Implement a menu system
- * Add music to the menus and game
+ * Add music/sound effects to the menus and game
  * Add more ship types
  * Add more weapon types
  * Add more obstacles
