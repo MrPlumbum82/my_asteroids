@@ -3,7 +3,7 @@ An asteroids replica written in OpenGL.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/11234396/18334742/4990e3f6-7593-11e6-8c87-1317ab1f7d60.png)
 
-##How to run:
+## How to run:
 
 ### Linux:
  1. Install opengl, glut and soil libraries
